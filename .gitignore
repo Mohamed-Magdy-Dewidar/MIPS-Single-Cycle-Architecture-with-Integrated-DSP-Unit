@@ -1,0 +1,32 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.bit
+*.bin
+*.ltx
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.srcs/
+*.webtalk/
+*.Xil/
+
+# Simulation files
+*.vcd
+*.wlf
+*.vvp
+*.vcd.dump
+
+# OS and editor files
+.DS_Store
+*.swp
+*.bak
+*.tmp
+
+# Build artifacts
+*.o
+*.out
